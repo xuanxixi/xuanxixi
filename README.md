@@ -1,7 +1,7 @@
 # Hello World! 👋 I'm Xi Xuan (宣茜)! 🌈
 
 ## About Me
-- 🎓 Bachelor's degree in Network Engineering (GPA: 3.5/4.0) and Master's degree in Mechanical Electronic Engineering (GPA: 3.8/4.0);
+- 🎓 Bachelor's degree in Network Engineering (GPA: 3.5/4.0;Rank:1/99) and Master's degree in Mechanical Electronic Engineering (GPA: 3.8/4.0;Rank:1/20);
 - Master's advisor: Prof. Runping Han, former Dean of the School of Information Engineering, with 30 years of research and teaching experience in digital signal processing).
 - 📅 From January 2023, I have been working as a research assistant at the Language and Translation Department of City University of Hong Kong under a project funded by the Hong Kong Research Grants Council
   (Supervisors: Prof. Kit Chunyu [Profile](https://scholars.cityu.edu.hk/en/persons/chun-yu-kit(2fff9a86-374c-4ee3-8a94-3d7d866f0432).html), Prof. King Kui SIN [Profile](https://www.researchgate.net/profile/King-Kui-Sin-2)).
