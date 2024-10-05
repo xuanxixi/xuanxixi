@@ -20,9 +20,10 @@ Born in 1999 in China 🇨🇳
 
 ## Hobbies
 - 🎧 An avid audiophile and headphone collector.
-- 🎶 Enthusiastic about all things related to sound, enjoying various genres of music, especially Kpop.
+- 🎶 Enthusiastic about all things related to sound, enjoying various genres of music, especially Kpop and Russian music.
+- 🎨 Enjoys fine arts, visiting exhibitions, and museums.
 
 ## Connect with Me
 - 📧 Drop me an email at [xuanxi1110@gmail.com](mailto:xuanxi1110@gmail.com).
 
-Let's explore, challenge, and discover new possibilities together in the realms of technology and sound! 🚀
+Let's explore, challenge, and discover new possibilities together in the realms of sound and LLMs! 🚀
