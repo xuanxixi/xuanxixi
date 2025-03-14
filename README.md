@@ -1,4 +1,4 @@
-# Hello World! 👋 I'm Xi Xuan (宣茜)! 🌈
+# Hello World! 👋 I'm Xi Xuan (宣茜)! 
 
 ## About Me
 Born in 1999 in China 🇨🇳
